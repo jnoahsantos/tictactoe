@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Computer\\Desktop\\calilung\\TIC_TAC_TOE\\TIC_TAC_TOE\\TIC_TAC_TOE.csproj",
+      "projectUniqueName": "C:\\Users\\Computer\\Desktop\\csharp\\tictactoe\\TIC_TAC_TOE\\TIC_TAC_TOE.csproj",
       "projectName": "TIC_TAC_TOE",
-      "projectPath": "C:\\Users\\Computer\\Desktop\\calilung\\TIC_TAC_TOE\\TIC_TAC_TOE\\TIC_TAC_TOE.csproj",
+      "projectPath": "C:\\Users\\Computer\\Desktop\\csharp\\tictactoe\\TIC_TAC_TOE\\TIC_TAC_TOE.csproj",
       "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Computer\\Desktop\\calilung\\TIC_TAC_TOE\\TIC_TAC_TOE\\obj\\",
+      "outputPath": "C:\\Users\\Computer\\Desktop\\csharp\\tictactoe\\TIC_TAC_TOE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
