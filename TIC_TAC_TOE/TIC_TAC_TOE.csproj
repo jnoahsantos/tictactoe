@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\TIC_TAC_TOE.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Debug\netcoreapp3.1\TIC_TAC_TOE.designer.deps.json" />
+    <Content Include="obj\Debug\netcoreapp3.1\TIC_TAC_TOE.designer.runtimeconfig.json" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\TIC_TAC_TOE.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\netcoreapp3.1\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\netcoreapp3.1\TIC_TAC_TOE.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\TIC_TAC_TOE.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\TIC_TAC_TOE.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\TIC_TAC_TOE.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\TIC_TAC_TOE.csproj.nuget.g.props" />
+    <None Include="obj\TIC_TAC_TOE.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+</Project>
